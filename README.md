@@ -1,4 +1,4 @@
-<pre>
+<div align="center"><pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -10,10 +10,11 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+</pre></div>
 
 
 <p align="center">
+      I'm Nick!<br/>
   Seasoned full stack developer with a passion for building systems that solve real-world problems.<br/>
   AI aficionado • Tech explorer • Full-stack tinkerer<br/>
 </p>

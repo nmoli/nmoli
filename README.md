@@ -1,4 +1,4 @@
-<p align="center"><b>Hi, I'm Nick!</b></p>
+<h1 align="center"><b>Hi, I'm Nick!</b></h1>
 
 <p align="center">
   Seasoned full stack developer with a passion for building systems that solve real-world problems.<br/>
